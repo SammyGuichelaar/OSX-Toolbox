@@ -1,11 +1,13 @@
 # OSX-Toolbox 2
 
+## There are 2 versions of OSX Toolbox, full and lite
+
 OS X Toolbox is a single view application that does some useful commands which helped me personally save a lot of time.
 This app was made in 2012. The code is not good (for example to free ram it uses sudo purge) but for me personally it's fine.
 
 App is written in Applescript.
 
-**Options**
+**Options on Full version**
 
 - Free Ram
 - Quit All Apps
@@ -17,6 +19,13 @@ App is written in Applescript.
 - Add a folder to the dock with the last used Applications
 - Highlight stack items in dock on hover 
 - Save Screenshot as
+
+**Options on lite version**
+
+- Free Ram
+- Quit All Apps
+- Show hidden files
+- Unhide Library folder
 
 **Note**
 
